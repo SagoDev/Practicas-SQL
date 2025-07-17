@@ -1,0 +1,10 @@
+1. Inserta un nuevo cliente en la tabla 'Clientes'.
+2. Inserta un nuevo producto con categoría 'Oficina'.
+3. Actualiza el salario de todos los empleados en un 10%.
+4. Elimina todos los productos que no se vendieron.
+5. Inserta una nueva orden para un cliente específico.
+6. Actualiza la dirección de un cliente.
+7. Borra todos los empleados que ya no están activos.
+8. Inserta múltiples registros en la tabla 'Proveedores'.
+9. Aumenta el precio de todos los productos electrónicos en un 5%.
+10. Elimina a todos los clientes de un país específico.

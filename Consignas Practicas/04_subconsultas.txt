@@ -1,0 +1,10 @@
+1. Muestra los empleados que ganan más que el salario promedio.
+2. Encuentra los productos cuyo precio es mayor que el promedio.
+3. Lista los clientes que hicieron al menos una orden.
+4. Muestra los empleados que trabajan en el mismo departamento que ‘Carlos’.
+5. Muestra los productos cuya categoría es 'Electrónica'.
+6. Encuentra los clientes que no han hecho órdenes en 2023.
+7. Muestra los nombres de empleados con el salario más alto.
+8. Lista los departamentos con más de 5 empleados.
+9. Muestra los productos vendidos más de 10 veces.
+10. Muestra las órdenes con el mayor total de venta.

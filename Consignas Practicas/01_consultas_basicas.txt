@@ -1,0 +1,10 @@
+1. Selecciona todos los datos de la tabla 'Empleados'.
+2. Muestra el nombre y salario de los empleados.
+3. Lista los productos con un precio mayor a 100.
+4. Ordena los clientes por apellido de forma ascendente.
+5. Muestra los empleados del departamento 'Ventas'.
+6. Selecciona todos los registros cuya fecha de ingreso sea en 2022.
+7. Muestra los 5 productos más caros.
+8. Muestra los nombres únicos de los departamentos.
+9. Selecciona los clientes cuyo nombre comience con 'A'.
+10. Muestra los productos cuyo nombre contenga la palabra 'Premium'.
