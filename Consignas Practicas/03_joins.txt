@@ -3,7 +3,7 @@
 3. Muestra los productos y la cantidad vendida por orden.
 4. Lista los empleados y los proyectos en los que trabajan.
 5. Muestra los clientes aunque no hayan realizado órdenes.
-6. Lista las órdenes que no tienen productos asociados.
+6. Lista los productos que no estén asociados a una orden.
 7. Une las tablas 'Productos', 'Categorías' y 'Proveedores'.
 8. Muestra las órdenes con sus respectivas fechas y productos.
 9. Muestra el nombre del empleado que gestionó cada orden.
