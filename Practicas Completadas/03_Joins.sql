@@ -8,7 +8,7 @@ FROM empleados e
 
 -- 2. Muestra todas las órdenes junto con el nombre del cliente que las realizó.
 SELECT	o.ID AS Orden,
-			c.Nombre AS Cliente
+		c.Nombre AS Cliente
 FROM ordenes o
 	INNER JOIN clientes c ON o.ClienteID = c.ID;
 			
@@ -43,29 +43,29 @@ WHERE op.OrdenID IS NULL;
 
 -- 7. Une las tablas 'Productos', 'Categorías' y 'Proveedores'.
 SELECT	p.Nombre AS Producto,
-			c.Nombre AS Categoria,
-			pv.Nombre AS Proveedor
+		c.Nombre AS Categoria,
+		pv.Nombre AS Proveedor
 FROM productos p
 	INNER JOIN categorias c ON  c.ID = p.CategoriaID
 	INNER	JOIN proveedores pv ON pv.ID = p.ProveedorID;
 
 -- 8. Muestra las órdenes con sus respectivas fechas y productos.
 SELECT	o.ID AS 'Orden Id',
-			o.Fecha AS 'Orden Fecha',
-			p.Nombre AS Producto
+		o.Fecha AS 'Orden Fecha',
+		p.Nombre AS Producto
 FROM ordenes o
 	INNER JOIN ordenproductos op ON op.OrdenID = o.ID
-	INNER JOIN productos p ON p.ID = op.ProductoID;
+	INNER JOIN productos p ON p.ID = op.ProductoID
 ORDER BY o.ID;
 
 -- 9. Muestra el nombre del empleado que gestionó cada orden.
 SELECT	o.ID AS Orden,
-			e.Nombre AS Empleado
+		e.Nombre AS Empleado
 FROM empleados e
 	INNER JOIN ordenes o ON o.EmpleadoID = e.ID;
 	
 -- 10. Lista todos los cursos junto con sus instructores.
 SELECT 	c.NombreCurso AS Curso,
-			i.NombreInstructor Instructor
+		i.NombreInstructor Instructor
 FROM cursos c
 	INNER JOIN instructores i ON i.ID = c.InstructorID;
