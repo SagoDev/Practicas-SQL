@@ -1,0 +1,10 @@
+1. Muestra los nombres de los clientes junto con el número de cada pedido.
+2. Lista los productos vendidos en cada pedido con su cantidad.
+3. Muestra los nombres de los empleados junto con los pedidos que gestionaron.
+4. Muestra todos los pedidos con los datos completos del cliente.
+5. Muestra los productos junto con el nombre de su categoría.
+6. Muestra los pedidos junto con los nombres de los productos incluidos en ellos.
+7. Muestra los nombres de clientes que no han hecho ningún pedido.
+8. Lista todos los productos que no tienen una categoría asignada.
+9. Muestra la cantidad total de productos por pedido.
+10. Muestra los nombres de los empleados y sus respectivos departamentos.

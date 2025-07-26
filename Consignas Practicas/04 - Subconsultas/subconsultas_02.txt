@@ -1,0 +1,10 @@
+1. Muestra los productos cuyo precio es superior al precio promedio.
+2. Lista los clientes que han realizado más de un pedido.
+3. Muestra los empleados que no han realizado ninguna venta.
+4. Lista los productos que nunca se han vendido.
+5. Obtén el nombre del cliente que realizó el pedido más reciente.
+6. Muestra los nombres de los productos vendidos en la mayor cantidad de unidades.
+7. Muestra los productos con el precio más alto en cada categoría.
+8. Muestra el producto con mayor stock dentro de cada categoría.
+9. Lista los pedidos que contienen más de 3 productos distintos.
+10. Muestra los empleados cuyo salario está por encima del promedio del departamento.

@@ -1,0 +1,10 @@
+1. Muestra todos los nombres y apellidos de los clientes registrados.
+2. Lista todos los productos con un precio mayor a 50.
+3. Muestra el nombre y correo electrónico de los empleados cuyo cargo es 'Vendedor'.
+4. Obtén todos los pedidos realizados en el año 2023.
+5. Muestra los productos que tienen stock disponible (mayor a 0).
+6. Lista los nombres de los clientes que viven en la ciudad 'Montevideo'.
+7. Muestra el nombre de los productos que comienzan con la letra 'C'.
+8. Lista todos los clientes ordenados alfabéticamente por apellido.
+9. Muestra los productos cuyo precio está entre 100 y 300.
+10. Lista los pedidos cuyo estado sea distinto de 'Cancelado'.
