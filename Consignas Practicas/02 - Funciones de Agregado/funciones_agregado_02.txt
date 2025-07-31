@@ -1,10 +1,10 @@
 1. Cuenta la cantidad total de productos registrados.
 2. Calcula el precio promedio de todos los productos.
-3. Muestra el total de ventas realizadas en 2024.
+3. Muestra el total de ventas realizadas en 2025.
 4. Obtén el producto con el precio más alto.
-5. Muestra el menor stock disponible entre todos los productos.
+5. Muestra el salario más bajo entre los empleados.
 6. Agrupa los productos por categoría y muestra la cantidad por cada una.
 7. Muestra el total de ventas por cliente.
-8. Calcula el ingreso total por producto vendido.
+8. Calcula el ingreso total por año.
 9. Muestra el número de empleados por departamento.
 10. Muestra la fecha del pedido más reciente.
