@@ -6,5 +6,5 @@
 6. Muestra los pedidos junto con los nombres de los productos incluidos en ellos.
 7. Muestra los nombres de clientes que no han hecho ningún pedido.
 8. Lista todos los productos que no tienen una categoría asignada.
-9. Muestra la cantidad total de productos por pedido.
+9. Muestra la cantidad total de productos por proveedor.
 10. Muestra los nombres de los empleados y sus respectivos departamentos.
