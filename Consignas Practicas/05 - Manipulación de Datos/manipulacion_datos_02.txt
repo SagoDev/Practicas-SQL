@@ -1,10 +1,10 @@
-1. Inserta un nuevo producto con nombre "Café Premium", precio 150 y stock 50.
-2. Actualiza el stock del producto "Leche Entera" a 100 unidades.
-3. Elimina el cliente cuyo correo electrónico sea 'cliente@email.com'.
-4. Aumenta en un 10% el precio de todos los productos de la categoría "Bebidas".
+1. Inserta un nuevo producto con nombre "Café Premium", precio 150 y proveedor ID = 3.
+2. Crea una tabla para el stock de productos.
+3. Elimina el cliente cuyo correo electrónico sea  'jose@example.com'.
+4. Aumenta en un 30% el precio de todos los productos de la categoría "Electrónica".
 5. Duplica el stock de los productos con menos de 10 unidades.
-6. Inserta un nuevo cliente con nombre, apellido y ciudad.
+6. Inserta un nuevo cliente con nombre, apellido y pais.
 7. Borra todos los pedidos realizados antes del 2020.
 8. Cambia el nombre del producto "Azúcar" por "Azúcar Blanca".
 9. Inserta un nuevo pedido con 2 productos para el cliente de ID 4.
-10. Actualiza el estado de todos los pedidos pendientes a "Procesado".
+10. Elimina al proveedor con ID = '6'.
