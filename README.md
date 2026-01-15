@@ -2,6 +2,10 @@
 
 Este repositorio contiene consignas y resoluciones de ejercicios prácticos en SQL. Está pensado para reforzar conocimientos en consultas, subconsultas, joins, agregaciones y manipulación de datos.
 
+## 📌 Estado del proyecto
+
+🛠️ Finalizado
+
 ## 🧠 Contenidos
 
 - Consultas básicas `SELECT`, `WHERE`, `ORDER BY`
@@ -18,9 +22,6 @@ También podés usar plataformas online como:
 - [SQL Fiddle](http://sqlfiddle.com/)
 - [DB Fiddle](https://www.db-fiddle.com/)
 - [SQLite Online](https://sqliteonline.com/)
-
-## 📁 Estructura del repositorio
-
 
 ## 🔧 Tecnologías
 
