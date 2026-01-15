@@ -27,15 +27,6 @@ También podés usar plataformas online como:
 - SQL (Estándar)
 - Motores compatibles: MySQL, PostgreSQL, SQLite
 
-
-## 👨‍💻 Autor
-
-**Santiago Lanz**  
-- GitHub: [SagoDev](https://github.com/SagoDev)  
-- Portfolio: [Mi portfolio web](https://sagodev.github.io/Portfolio-Web-Santiago-Lanz/)  
-- LinkedIn: [Santiago Lanz](https://www.linkedin.com/in/santiagolanz/)  
-- Email: santiagolanz019@gmail.com
-
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Consultá el archivo [LICENSE](LICENSE) para más detalles.
